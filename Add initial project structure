@@ -1,0 +1,8 @@
+apps/api/README.md
+apps/web/README.md
+packages/rules/README.md
+packages/ai/README.md
+packages/evals/README.md
+infra/README.md
+Makefile
+.env.example
