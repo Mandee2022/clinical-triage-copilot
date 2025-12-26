@@ -1,0 +1,12 @@
+## MVP
+- [ ] Symptom intake API
+- [ ] Rule-based urgency scoring
+- [ ] AI explanation service
+- [ ] Audit logging
+
+## V1
+- [ ] AI eval pipeline
+- [ ] Confidence thresholds
+- [ ] Analytics dashboard
+- [ ] Cost monitoring
+- [ ] 
